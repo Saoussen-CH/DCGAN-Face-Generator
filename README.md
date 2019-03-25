@@ -3,7 +3,7 @@ Using Generative Adversarial Networks to generate new images of faces with PyTor
 
 ## Project Overview
 
-This project is part of the requirements for the completion of the Udacity Deep Learning Nanodegree. It consists of building and training a DCGAN on the CelebA dataset to generate images of new and realistic human faces using Pytorch. 
+This project is part of the requirements for the completion of the Udacity Deep Learning Nanodegree. It consists of building and training a DCGAN on the CelebA dataset to generate images of new and realistic human faces using PyTorch. 
 
 ## Project Result
 
